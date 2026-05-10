@@ -1,3 +1,7 @@
+# Origo Reader
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1020,100:0a0a0a&height=220&section=header&text=小元读书&fontSize=60&fontColor=e8c4f0&fontAlignY=38&desc=Origo%20Reader%20%E2%80%94%20Reading%2C%20refined.&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" />
 </p>
